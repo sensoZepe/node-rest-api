@@ -1,5 +1,7 @@
 # node-rest-api
 
+Create .env the project root!
+
 Set these env variables in .env file before start:
 
 ```bash
